@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miroslawWasylik/rekrutacja/static/css/main.a617e044.chunk.css",
+    "main.js": "/miroslawWasylik/rekrutacja/static/js/main.654bf1c0.chunk.js",
+    "main.js.map": "/miroslawWasylik/rekrutacja/static/js/main.654bf1c0.chunk.js.map",
+    "runtime-main.js": "/miroslawWasylik/rekrutacja/static/js/runtime-main.216a4f20.js",
+    "runtime-main.js.map": "/miroslawWasylik/rekrutacja/static/js/runtime-main.216a4f20.js.map",
+    "static/js/2.be48dfa4.chunk.js": "/miroslawWasylik/rekrutacja/static/js/2.be48dfa4.chunk.js",
+    "static/js/2.be48dfa4.chunk.js.map": "/miroslawWasylik/rekrutacja/static/js/2.be48dfa4.chunk.js.map",
+    "static/js/3.cefa49fe.chunk.js": "/miroslawWasylik/rekrutacja/static/js/3.cefa49fe.chunk.js",
+    "static/js/3.cefa49fe.chunk.js.map": "/miroslawWasylik/rekrutacja/static/js/3.cefa49fe.chunk.js.map",
+    "index.html": "/miroslawWasylik/rekrutacja/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/miroslawWasylik/rekrutacja/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.be48dfa4.chunk.js.LICENSE.txt": "/miroslawWasylik/rekrutacja/static/js/2.be48dfa4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/miroslawWasylik/rekrutacja/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.216a4f20.js",
+    "static/js/2.be48dfa4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.654bf1c0.chunk.js"
+  ]
+}
